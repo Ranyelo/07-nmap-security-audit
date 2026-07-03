@@ -1,0 +1,10 @@
+www.google.com
+www.microsoft.com
+www.apple.com
+www.amazon.com
+www.facebook.com
+www.netflix.com
+www.wikipedia.org
+www.cisco.com
+www.ibm.com
+www.oracle.com
