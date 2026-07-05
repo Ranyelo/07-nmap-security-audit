@@ -10,4 +10,5 @@ Este repositorio documenta el desarrollo de una auditoría perimetral sobre una 
 ## Archivos del repositorio
 * `reports/`: Archivos HTML del reporte generado por Nmap.
 * `targets/`: Lista de servidores evaluados.
+* `scripts/`: Script en Bash utilizado para automatizar la ejecucion de Nmap y generar reportes HTML.
 * `docs/`: Documentación escolar completa de la práctica.
